@@ -34,6 +34,7 @@
       "System.ComponentModel.TypeConverter.dll": "sha256-NontQji8cu02T01mUahKO5kb3VsgmT0GrmnHYRc3tuU=",
       "System.ComponentModel.dll": "sha256-EYkkC\/o0L2uyDZV9cqpd1gXZ72aRb\/g4rk3RPeBrPF8=",
       "System.Console.dll": "sha256-JFD53A7XXFc92zMpZgyXgQrxiZ\/kN8z0Ka4pBslfHl0=",
+      "System.Diagnostics.TraceSource.dll": "sha256-rb6cItfSKIcYhiszCwKjx6jFtdteZhk252wYE1RerT4=",
       "System.IO.FileSystem.dll": "sha256-FtLCBFaPbSCR9RyU\/4zumW8OlSBlWdkAl+DQTBax6yQ=",
       "System.Linq.Expressions.dll": "sha256-LsK0hWw3g0mDDAgwPMuLY1ewAQyPKuQLtwkymCPXpBU=",
       "System.Linq.dll": "sha256-CpOTZ7TBK0sM3bCTpFuleE3o20eqzySwYGgDxCChSeE=",
@@ -56,7 +57,6 @@
     },
     "lazyAssembly": {
       "dotnet.timezones.blat": "sha256-rFG55cwkAnfHzxmxwBL2tTwfj8X8cjcSEAlco4bc1eo=",
-      "System.Diagnostics.TraceSource.dll": "sha256-rb6cItfSKIcYhiszCwKjx6jFtdteZhk252wYE1RerT4=",
       "System.Security.Cryptography.Algorithms.dll": "sha256-RdDFt+6U3x1+xB8i3mpUstPp0Za7ScuHs0ENCiAckio="
     },
     "pdb": null,
