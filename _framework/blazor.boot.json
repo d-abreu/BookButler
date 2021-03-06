@@ -50,16 +50,17 @@
       "System.Private.Xml.dll": "sha256-SH9MV+bYAhSxejfllCKzEmXI9HZ+MhFOrZyR5fSINHU=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-+DcHEo4Aj9fAXHDHh4YmmyMyIHFm4y6odyaera4nHYA=",
       "System.Runtime.InteropServices.RuntimeInformation.dll": "sha256-JCBKAHToxo6EaI3tAAIPedfNTiqFCPA82vurvbJi6MU=",
-      "System.Security.Cryptography.Algorithms.dll": "sha256-RdDFt+6U3x1+xB8i3mpUstPp0Za7ScuHs0ENCiAckio=",
       "System.Text.Encodings.Web.dll": "sha256-7zfVa0Sh3YX3rjXhVE9KavYLMY3oPRdMurK29PgghFA=",
       "System.Text.Json.dll": "sha256-BmLyOVFTn\/2QAsEDO\/8qZVqLgsGXnzjJ+uzyNhKtU1U=",
       "System.Text.RegularExpressions.dll": "sha256-i6EDwQxuC1b4HEnjZXARNzd9+4aZ4guGAbsnDfmQze0=",
       "System.Private.CoreLib.dll": "sha256-JnGmrLXq2aRLbapGply6PmFCif9r3lFq8kRGivSinTk="
     },
-    "lazyAssembly": null,
+    "lazyAssembly": {
+      "dotnet.timezones.blat": "sha256-rFG55cwkAnfHzxmxwBL2tTwfj8X8cjcSEAlco4bc1eo=",
+      "System.Security.Cryptography.Algorithms.dll": "sha256-RdDFt+6U3x1+xB8i3mpUstPp0Za7ScuHs0ENCiAckio="
+    },
     "pdb": null,
     "runtime": {
-      "dotnet.timezones.blat": "sha256-rFG55cwkAnfHzxmxwBL2tTwfj8X8cjcSEAlco4bc1eo=",
       "dotnet.wasm": "sha256-+NqBIg7FTMeA2q0mxzbehfuE2WPrnq53yqLsu47afbY=",
       "icudt.dat": "sha256-m7NyeXyxM+CL04jr9ui1Z6pVfMWwhHusuz5qNZWpAwA=",
       "icudt_CJK.dat": "sha256-91bygK5voY9lG5wxP0\/uj7uH5xljF9u7iWnSldT1Z\/g=",
