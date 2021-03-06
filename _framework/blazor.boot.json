@@ -22,6 +22,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-32yXMbcCMbfUq7vtlIPput8uO7SZK8E9m3V8EXMScBc=",
       "Microsoft.JSInterop.dll": "sha256-DhkqJepRMnjz2gMovJcAGCl6mXIX\/NpfdfSnvTto5\/8=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-UwgpwjCHmUhISv5eMMiYhjnJhBAudE0gLHyB4B\/kLpQ=",
+      "System.IO.Pipelines.dll": "sha256-qZYTUS+ga7CydtH54fYPbehFCvx3B49I74G8dxreTog=",
       "BookButlr.Shared.dll": "sha256-mXoBpQP1abNrSBh4uSrIjowGg9T6PC19VUiQFMJ9aK8=",
       "BookButlr.Client.dll": "sha256-6NNR4GnIsvNkM7bs\/3dplPexcIfaLmsiwWs+qUAVTaU=",
       "System.Collections.Concurrent.dll": "sha256-mqd\/1MuFAUxsLys\/45DBzxkmqTTxoD8c15kU036mr\/4=",
@@ -54,8 +55,6 @@
     },
     "lazyAssembly": {
       "dotnet.timezones.blat": "sha256-rFG55cwkAnfHzxmxwBL2tTwfj8X8cjcSEAlco4bc1eo=",
-      "icudt_EFIGS.dat": "sha256-DPfeOLph83b2rdx40cKxIBcfVZ8abTWAFq+RBQMxGw0=",
-      "System.IO.Pipelines.dll": "sha256-qZYTUS+ga7CydtH54fYPbehFCvx3B49I74G8dxreTog=",
       "System.Diagnostics.TraceSource.dll": "sha256-rb6cItfSKIcYhiszCwKjx6jFtdteZhk252wYE1RerT4=",
       "System.IO.FileSystem.dll": "sha256-FtLCBFaPbSCR9RyU\/4zumW8OlSBlWdkAl+DQTBax6yQ=",
       "System.Security.Cryptography.Algorithms.dll": "sha256-RdDFt+6U3x1+xB8i3mpUstPp0Za7ScuHs0ENCiAckio="
@@ -65,6 +64,7 @@
       "dotnet.wasm": "sha256-+NqBIg7FTMeA2q0mxzbehfuE2WPrnq53yqLsu47afbY=",
       "icudt.dat": "sha256-m7NyeXyxM+CL04jr9ui1Z6pVfMWwhHusuz5qNZWpAwA=",
       "icudt_CJK.dat": "sha256-91bygK5voY9lG5wxP0\/uj7uH5xljF9u7iWnSldT1Z\/g=",
+      "icudt_EFIGS.dat": "sha256-DPfeOLph83b2rdx40cKxIBcfVZ8abTWAFq+RBQMxGw0=",
       "icudt_no_CJK.dat": "sha256-oM7Z6aN9jHmCYqDMCBwFgFAYAGgsH1jLC\/Z6DYeVmmk=",
       "dotnet.5.0.3.js": "sha256-sf1arnHfzSTa9MZNpdWBkQTecBMQBQRynOZ8+\/iLMUg="
     },
